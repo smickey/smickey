@@ -1,4 +1,4 @@
-<h1 align="center">Hi | 你好 ｜ สวัสีดีครับ </h1>
+<h1 align="center">Hi | 你好 | สวัสีดีครับ </h1>
 <h3 align="center">A developer currently based in Singapore</h3>
 
 - 🌱 I’m currently trying to learn **Cairo**
