@@ -1,5 +1,5 @@
 ### Hello | 你好 | สวัสีดีครับ
-## Lifelong learner
+## A Writer Who's Interested in Code
 
 
 - 🌱 I’m currently trying to learn **Cairo**
