@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mickey</h1>
-<h3 align="center">A developer from Singapore</h3>
+<h1 align="center">Hi | 你好 ｜ สวัสีดีครับ </h1>
+<h3 align="center">A developer currently based in Singapore</h3>
 
-- 🌱 I’m currently learning **Cairo**
+- 🌱 I’m currently trying to learn **Cairo**
 
-- 📝 I regularly write articles on [https://www.quora.com/profile/Mickey-Lin](https://www.quora.com/profile/Mickey-Lin)
+- 📝 I regularly answer non-tech questions at [https://www.quora.com/profile/Mickey-Lin](https://www.quora.com/profile/Mickey-Lin)
 
-- 💬 Ask me about **web3, blockchain, python, typescript rust**
+- 💬 Ask me about **Web3, Blockchain technology, the media industry, and life in Southeast Asia**
+
+- 🗣️ English | 中文 | ภาษาไทย
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
