@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently trying to learn **Cairo**
 
-- 📝 I regularly answer non-tech questions at [https://www.quora.com/profile/Mickey-Lin](https://www.quora.com/profile/Mickey-Lin)
+- 📝 I regularly answer non-tech questions at ![Quora](https://www.quora.com/profile/Mickey-Lin)
 
 - 💬 Ask me about **Web3, Blockchain technology, the media industry, and life in Southeast Asia**
 
