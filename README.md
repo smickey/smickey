@@ -1,12 +1,12 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&duration=4000&pause=500&color=4A9DFF&width=870&height=100&lines=GM+everyone!!+;大家好!!!+;สวัสีดี+;This+is+Mickey+✌%EF%B8%8F+;Thanks+for+visiting+my+Github%20😁+;謝謝您來看我的Github%20🙇🏻‍♂️+;ขอบคุณมาชมGithubของผม%20🙏🏼" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&duration=4000&pause=500&color=4A9DFF&width=870&height=100&lines=GM+everyone!!+;大家好!!!+;สวัสดี+;This+is+Mickey+✌%EF%B8%8F+;Thanks+for+visiting+my+Github%20😁+;謝謝您來看我的Github%20🙇🏻‍♂️+;ขอบคุณมาชมGithubของผม%20🙏🏼" alt="Typing SVG" />
 </a>
 </h1>
 
 <br>
 
-# Hello | 你好 | สวัสีดีครับ
+# Hello | 你好 | สวัสดีครับ
 
 ### A Storyteller Interested in Quality Code
 🌱 I’m currently trying to learn **Cairo**
